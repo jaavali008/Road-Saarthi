@@ -77,13 +77,28 @@ The current simulation uses:
 - **101 simulation steps**
 - **Approximately 25 microseconds average measured replanning computation time**
 
+
+## Future Scope
+
+The simulation can be further enhanced with:
+
+- Advanced camera, LiDAR and radar sensor simulation
+- Improved sensor fusion
+- AI-based object detection
+- More accurate motion prediction
+- Advanced risk assessment
+- Dynamic speed adaptation
+- More complex Indian road scenarios
+- Testing with different traffic and obstacle conditions
+
+
 ## Results
 
 The prototype successfully demonstrates adaptive path replanning when obstacles are detected in the vehicle's path.
 
 Simulation screenshots and results are available in:
 
-`Results/screenshots/`
+`results- screenshots`
 
 ## Demo Video
 
@@ -110,16 +125,3 @@ README.md
 demo_video_link.txt
 results
     └── screenshots
-
-## Future Scope
-
-The simulation can be further enhanced with:
-
-- Advanced camera, LiDAR and radar sensor simulation
-- Improved sensor fusion
-- AI-based object detection
-- More accurate motion prediction
-- Advanced risk assessment
-- Dynamic speed adaptation
-- More complex Indian road scenarios
-- Testing with different traffic and obstacle conditions
